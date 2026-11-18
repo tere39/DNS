@@ -13,7 +13,7 @@
                 <string>https://midns-pablo.duckdns.org:8443/dns-query</string>
             </dict>
             <key>PayloadDisplayName</key>
-            <string>DNS Personalizado</string>
+            <string>DNS Personalizad0</string>
             <key>PayloadIdentifier</key>
             <string>com.pablo.adguard.dns.doh.v2</string>
             <key>PayloadType</key>
@@ -25,7 +25,7 @@
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>Filtro DNS Casa</string>
+    <string>Filtro DNS Cas1</string>
     <key>PayloadIdentifier</key>
     <string>com.pablo.adguard.dns.profile.v2</string>
     <key>PayloadType</key>
