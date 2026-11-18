@@ -15,10 +15,10 @@
                     <string>149.112.112.10</string>
                 </array>
                 <key>ServerURL</key>
-                <string>https://midns-pablo.duckdns.org/dns-query</string>
+                <string>https://midns-pablo.duckdns.org:8443/dns-query</string>
             </dict>
             <key>PayloadDescription</key>
-            <string>DNS Cifrado Personalizad0</string>
+            <string>DNS Cifrado Personalizado</string>
             <key>PayloadDisplayName</key>
             <string>DNS Personalizado</string>
             <key>PayloadIdentifier</key>
