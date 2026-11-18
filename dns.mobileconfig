@@ -18,7 +18,7 @@
                 <string>https://midns-pablo.duckdns.org/dns-query</string>
             </dict>
             <key>PayloadDescription</key>
-            <string>DNS Cifrado Personalizado</string>
+            <string>DNS Cifrado Personalizad0</string>
             <key>PayloadDisplayName</key>
             <string>DNS Personalizado</string>
             <key>PayloadIdentifier</key>
