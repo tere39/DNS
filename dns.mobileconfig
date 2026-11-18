@@ -9,24 +9,17 @@
             <dict>
                 <key>DNSProtocol</key>
                 <string>HTTPS</string>
-                <key>ServerAddresses</key>
-                <array>
-                    <string>9.9.9.10</string>
-                    <string>149.112.112.10</string>
-                </array>
                 <key>ServerURL</key>
                 <string>https://midns-pablo.duckdns.org:8443/dns-query</string>
             </dict>
-            <key>PayloadDescription</key>
-            <string>DNS Cifrado Personalizado</string>
             <key>PayloadDisplayName</key>
             <string>DNS Personalizado</string>
             <key>PayloadIdentifier</key>
-            <string>com.pablo.adguard.dns.doh</string>
+            <string>com.pablo.adguard.dns.doh.v2</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>8F3A19C2-4B7E-4D1A-9E6F-2C8B5A1D7E30</string>
+            <string>9A4B20D3-5C8F-4E2B-8F7A-3D9C6B2E8F41</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
@@ -34,11 +27,11 @@
     <key>PayloadDisplayName</key>
     <string>Filtro DNS Casa</string>
     <key>PayloadIdentifier</key>
-    <string>com.pablo.adguard.dns.profile</string>
+    <string>com.pablo.adguard.dns.profile.v2</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>3D9E71B4-6A2C-4F8B-8C1D-5E9A0B3F6D42</string>
+    <string>4E0F82C5-7B3D-4A9C-9D2E-6F0B1C4A7E53</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
